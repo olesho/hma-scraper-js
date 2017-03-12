@@ -1,13 +1,13 @@
 # hma-scraper-js
 NodeJS script: scrapes the obfuscated proxy list at proxylist.hidemyass.com
 
-***Inspired by***
+###Inspired by
 https://github.com/IDSninja/hma-scraper
 
-***Requires***
+###Requires
 NodeJS with promise support
 
-***Install/Usage***
+###Install/Usage
 ```
 $ git clone https://github.com/olesho/hma-scraper-js
 $ cd hma-scraper-js
